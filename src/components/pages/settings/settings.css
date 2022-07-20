@@ -1,0 +1,40 @@
+.slider{
+    height: 40px;
+    border: solid 2px green;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+.thumb{
+    background-color: green;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid 1px white;
+}
+
+label{
+    color: white;
+}
+
+.break-slider{
+    height: 40px;
+    border: solid 2px red;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.break-thumb{
+    background-color:red;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    border: solid 1px white;
+}

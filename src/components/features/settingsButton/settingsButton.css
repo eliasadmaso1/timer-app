@@ -1,0 +1,23 @@
+.settings{
+    width: auto;
+    background-color: rgba(255,255,255,0.1);
+    padding:10px 20px;
+    font-size: 1.4rem;
+    line-height: 36px;
+    cursor: pointer;
+
+}
+
+.settings:hover{
+    width: auto;
+    background-color: rgba(255,255,255,0.1);
+    opacity: 0.5;
+  
+
+}
+
+.settings svg{
+    width: 36px;
+    float: left;
+    margin-right: 5px;
+}
