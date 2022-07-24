@@ -32,7 +32,7 @@ function Settings() {
         trackClassName="track"
       />
       <div style={{display:"flex",justifyContent:"center"}}>
-      <BackButton onClick={()=> settingInfo.setToggle(false)}/>
+      <BackButton onClick={()=> settingInfo.setToggle(true)}/>
 
       </div>
     </div>

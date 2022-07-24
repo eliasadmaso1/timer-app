@@ -14,7 +14,7 @@ function App() {
   return (
     <main>
       <appContext.Provider value={{workMinutes,setWorkMinutes,breakMinutes,setBreakMinutes,toggle,setToggle}}>
-      {toggle ? <Settings/> :   <Timer/>}
+      {toggle ? <Timer/> :   <Settings/>}
       </appContext.Provider>
     
     
